@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, i'm Marius 👋
 
-<!--
-**mariusoff1/mariusoff1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+19 y/o engineering student based in France.
 
-Here are some ideas to get you started:
+I'm deep into mathematics, theoretical physics, and computer science. I like turning complex physical models into clean code, simulations, and working hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm working on aerodynamics and physics simulation projects that I'll be publishing here very soon.
+
+Always down for open-source collaborations, engineering competitions, or just building cool tools.
+
+Tech & Tools:
+
+Languages: Python, JavaScript, HTML/CSS
+
+Stack: VS Code, Git/GitHub, LaTeX, Arduino, Altium Designer, Figma, Blender
