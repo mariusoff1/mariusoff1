@@ -1,4 +1,4 @@
-## Hi, i'm Marius 👋
+## Hey there 👋
 
 19 y/o engineering student based in France.
 
