@@ -10,6 +10,6 @@ Always down for open-source collaborations, engineering competitions, or just bu
 
 Tech & Tools:
 
-Languages: Python, JavaScript, HTML/CSS
+Languages: Python, JavaScript, HTML/CSS, React, Typescript
 
-Stack: VS Code, Git/GitHub, LaTeX, Arduino, Altium Designer, Figma, Blender
+Stack: VS Code, Git/GitHub, LaTeX, Arduino, Altium Designer, Figma, Blender, Notion
